@@ -117,21 +117,6 @@ hand-gesture-tracker/
 3. **Gesture Classification**: Maps finger counts to specific gestures
 4. **Visual Feedback**: Overlays corresponding images anchored to wrist position
 
-## 🐛 Troubleshooting
-
-### Common Issues
-
-**❌ "Could not load [image].png"**
-- Solution: Ensure all four PNG files exist in the project directory
-
-**❌ "WARNING: [image] has X channels (expected 4)"**  
-- Solution: Convert images to RGBA format with transparency channel
-
-**❌ "Error reading frame from webcam"**
-- Solution: Check camera permissions and ensure no other app is using the camera
-
-**❌ Poor gesture detection**
-- Solution: Improve lighting, ensure hand is clearly visible, adjust confidence thresholds
 
 ## 🎯 Potential Enhancements
 
