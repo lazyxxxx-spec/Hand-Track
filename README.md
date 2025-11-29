@@ -38,7 +38,7 @@ A real-time hand gesture recognition system that detects hand gestures from your
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/hand-gesture-tracker.git
+   git clone https://github.com/lazyxxxx-spec/Hand-Track.git
    cd hand-gesture-tracker
    ```
 
